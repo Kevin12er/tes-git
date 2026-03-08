@@ -65,6 +65,7 @@ button {
 }
 button:hover {
   background: #2980b9;
+  color: #dddd;
 }
 
 .button-kecil {
