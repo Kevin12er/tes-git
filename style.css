@@ -68,6 +68,10 @@ button:hover {
 }
 
 
-@media anime {
+@keyframes anime {
+
+}
+
+@media (max-width: 600px) {
 
 }

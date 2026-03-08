@@ -41,4 +41,6 @@ products.forEach((item) => {
   container.appendChild(card);
 });
 
-sasasasa
+for (let i = 0; i < products.length; i++) {
+    
+}
