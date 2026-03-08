@@ -42,5 +42,11 @@ products.forEach((item) => {
 });
 
 for (let i = 0; i < products.length; i++) {
-    
+    let stok = 0;
+
+    if (stok.item === 0) {
+
+    } else {
+        
+    }
 }

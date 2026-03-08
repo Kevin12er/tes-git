@@ -67,6 +67,10 @@ button:hover {
   background: #2980b9;
 }
 
+.button-kecil {
+    padding: 16px 30px;
+    border-radius: 8px;
+}
 
 @keyframes anime {
 
@@ -75,3 +79,4 @@ button:hover {
 @media (max-width: 600px) {
 
 }
+
